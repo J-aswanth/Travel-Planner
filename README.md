@@ -53,5 +53,5 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 ### Planner Page 
 ![Planner Page](./3.png)
 ## Demo Video
-[Click here to watch demo](./app_overview/travel%20planner.mp4)
+[Click here to watch demo](./travel%20planner.mp4)
 
