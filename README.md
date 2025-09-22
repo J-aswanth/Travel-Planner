@@ -13,14 +13,12 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
   - Connect cities with routes (edges) and assign weights (distance/cost/time).  
 
 - **Algorithm Selector**  
-  - Shortest Path → *Dijkstra / A\**  
+  - Shortest Path → *Dijkstra*  
   - Minimum Spanning Tree → *Prim / Kruskal*  
-  - (Future) Traveling Salesman Problem (TSP)  
 
 - **Visualization**  
   - Animated Dijkstra expansion.  
   - MST edges highlighted as they are added.  
-  - TSP cycle highlight (future).  
 
 - **Travel Plan Output**  
   - Best route with cost/time.  
@@ -53,5 +51,6 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 ### Planner Page 
 ![Planner Page](./3.png)
 ## Demo Video
-(https://github.com/J-aswanth/Travel-Planner/blob/main/demo.mp4)
-
+<video width="600" controls>
+  <source src="https://github.com/J-aswanth/Travel-Planner/blob/main/demo.mp4" type="video/mp4">
+</video>
