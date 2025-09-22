@@ -45,13 +45,13 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./app_overview/1.png)
+![Landing Page](./1.png)
 
 ### GraphBuilder Page
-![GraphBuilder Page](./app_overview/2.png)
+![GraphBuilder Page](./2.png)
 
 ### Planner Page 
-![Planner Page](./app_overview/3.png)
+![Planner Page](./3.png)
 ## Demo Video
 [Click here to watch demo](./app_overview/travel%20planner.mp4)
 
